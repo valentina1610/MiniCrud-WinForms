@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|c:\\users\\gc\\source\\repos\\minicrudapp\\minicrudapp\\views\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0AA3E72F-4393-4D5C-8901-8AD31EF529AF}|MiniCrudApp\\MiniCrudApp.csproj|solutionrelative:minicrudapp\\views\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Models\\Producto.cs",
+              "RelativeToolTip": "MiniCrudApp\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:57:52.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.resx",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Views\\Form1.resx",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.resx",
+              "RelativeToolTip": "MiniCrudApp\\Views\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-03T21:57:45.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Views\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.Designer.cs",
+              "RelativeToolTip": "MiniCrudApp\\Views\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:57:17.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiniCrudApp\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:46:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiniCrudApp\\Views\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:46:14.809Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniCrudApp\\Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\MiniCrudApp\\MiniCrudApp\\Views\\Form1.cs",
+              "RelativeToolTip": "MiniCrudApp\\Views\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:25:08.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

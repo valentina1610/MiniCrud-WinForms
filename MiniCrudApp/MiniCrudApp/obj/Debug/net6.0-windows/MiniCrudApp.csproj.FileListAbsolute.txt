@@ -1,0 +1,17 @@
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\bin\Debug\net6.0-windows\MiniCrudApp.exe
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\bin\Debug\net6.0-windows\MiniCrudApp.deps.json
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\bin\Debug\net6.0-windows\MiniCrudApp.runtimeconfig.json
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\bin\Debug\net6.0-windows\MiniCrudApp.dll
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\bin\Debug\net6.0-windows\MiniCrudApp.pdb
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.Form1.resources
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.csproj.GenerateResource.cache
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.AssemblyInfo.cs
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.sourcelink.json
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.dll
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\refint\MiniCrudApp.dll
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.pdb
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\MiniCrudApp.genruntimeconfig.cache
+C:\Users\gc\source\repos\MiniCrudApp\MiniCrudApp\obj\Debug\net6.0-windows\ref\MiniCrudApp.dll
